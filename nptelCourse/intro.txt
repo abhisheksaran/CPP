@@ -1,0 +1,4 @@
+This directory is the practical implementation of the c++ programming NPTEL course.
+The course videos can be found here- https://www.youtube.com/watch?v=KG4hjVDw-p8&list=PL0gIV7t6l2iIsR55zsSgeiOw9Bd_IUTbY&index=2
+The nomenculture for the programs will be usually as lectureNum_shortDescription.cpp
+
